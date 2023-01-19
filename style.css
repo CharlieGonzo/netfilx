@@ -49,6 +49,15 @@
   padding-left: 50px;
 }
 
+#middle-first{
+  color:white;
+  position: absolute;
+  top: 36%;
+  left: 28%;
+  width: 600px;
+  text-align: center;
+}
+
 #first {
   background-image: linear-gradient(
       to bottom,
@@ -62,6 +71,6 @@
 }
 
 #title {
-  font-size: xx-large;
+  font-size: 3rem;
   margin-top: 1%;
 }
